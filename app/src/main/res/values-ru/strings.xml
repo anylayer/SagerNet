@@ -80,7 +80,7 @@
     <string name="group_default">Разгруппирован</string>
     <string name="document">Документ</string>
     <string name="theme">Тема</string>
-    <string name="menu_about">об</string>
+    <string name="menu_about">О приложении</string>
     <string name="menu_group">Группа</string>
     <string name="menu_configuration">Конфигурация</string>
     <string name="logcat_summary">Такой полезный очень вау</string>
@@ -190,7 +190,7 @@
     <string name="enable_log">Включить журнал</string>
     <string name="auto">Авто</string>
     <string name="disable">Запрещать</string>
-    <string name="enable">включить</string>
+    <string name="enable">Включить</string>
     <string name="follow_system">Следить за системой</string>
     <string name="night_mode">Ночной режим</string>
     <string name="lines">%d строк</string>
@@ -394,7 +394,7 @@
     <string name="hysteria_connection_receive_window">Окно получения соединения QUIC</string>
     <string name="hysteria_stream_receive_window">Окно приема потока QUIC</string>
     <string name="ss_stream_provider">Провайдер потока Shadowsocks</string>
-    <string name="menu_traffic">Движение</string>
+    <string name="menu_traffic">Трафик</string>
     <string name="no_statistics">Статистики пока нет</string>
     <string name="traffic_statistics_summary">Может увеличить потребление энергии</string>
     <string name="clear_logcat">Четкие отчеты об эффективности</string>
@@ -409,4 +409,5 @@
     <string name="profile_traffic_statistics">Статистика трафика профиля</string>
     <string name="group_filter_owners_nf">В этой подписке нет владельцев</string>
     <string name="app_traffic_statistics">Статистика трафика приложений</string>
+    <string name="enable_pcap">Включить Pcap</string>
 </resources>
